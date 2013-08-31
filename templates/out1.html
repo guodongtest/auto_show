@@ -1,0 +1,265 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+<!--{literal}-->
+<style>
+.class1
+{
+	width:300px;
+}
+.class2
+{
+	width:150px;
+}
+.class3
+{
+	width:150;
+}
+.class4
+{
+	width:50px;
+}
+.class5
+{
+	width:80px;
+}
+.class6
+{
+	width:200px;
+}
+.classA
+{
+	width:100px;
+}
+
+</style>
+<!--{/literal}-->
+</head>
+<body style="font-size:12px;">
+<div id="tab1">
+	<table border="1px soild #000" style="width:{$width}">
+	<tr align="center" style="background-color:#0099FF;">
+	    <td colspan="3">Auto Show Sales Leads By Model (data.2011)</td>
+	    <!--{section name=i loop=$date}-->
+		<td colspan="3" class='class3'>{$date[i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr align="center">
+	    <td colspan="3" style="vertical-align:middle;">Brand&Model</td>
+	    <!--{section name=i loop=$date}-->
+		<td class="class4">Sales leads</td><td class="class4">H/W Sales leads</td><td class="class4">Cold Sales Leads</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td class='class2' rowspan="15" align="center" style="vertical-align:middle;">
+			Jeep
+			</td>
+		<td class='class2' rowspan="4" align="center">
+			Cherokee
+		</td>
+		<td class="class1">
+			2014大切诺基3.0L
+		</td>
+		<!--{section name=i loop=$fen1[0]}-->
+		<td align="center">{$fen1[0][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			2014大切诺基3.6L
+		</td>
+		<!--{section name=i loop=$fen1[1]}-->
+		<td align="center">{$fen1[1][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			2014大切诺基5.7L
+		</td>
+		<!--{section name=i loop=$fen1[2]}-->
+		<td align="center">{$fen1[2][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			2014大切诺基SRT8
+		</td>
+		<!--{section name=i loop=$fen1[3]}-->
+		<td align="center">{$fen1[3][i]}</td>
+		<!--{/section}-->
+	</tr>
+	
+	<tr>
+		<td rowspan="3" align="center">
+			Compass
+		</td>
+		<td>
+			2014指南者2.0L
+		</td>
+		<!--{section name=i loop=$fen2[0]}-->
+		<td align="center">{$fen2[0][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			2014指南者2.4L
+		</td>
+		<!--{section name=i loop=$fen2[1]}-->
+		<td align="center">{$fen2[1][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			2014指南者2.4L蛇行珍藏版
+		</td>
+		<!--{section name=i loop=$fen2[2]}-->
+		<td align="center">{$fen2[2][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td rowspan="5" align="center">
+			Wrangler
+		</td>
+		<td>
+			牧马人Sahara两门款
+		</td>
+		<!--{section name=i loop=$fen3[0]}-->
+		<td align="center">{$fen3[0][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			牧马人Sahara四门款
+		</td>
+		<!--{section name=i loop=$fen3[1]}-->
+		<td align="center">{$fen3[1][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			牧马人Rubicon两门款
+		</td>
+		<!--{section name=i loop=$fen3[2]}-->
+		<td align="center">{$fen3[2][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			牧马人Rubicon四门款
+		</td>
+		<!--{section name=i loop=$fen3[3]}-->
+		<td align="center">{$fen3[3][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			牧马人Rubicon十周年纪念款
+		</td>
+		<!--{section name=i loop=$fen3[4]}-->
+		<td align="center">{$fen3[4][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td align="center" rowspan="3">
+			Patriot
+		</td>
+		<td>
+			2014自由客2.0L
+		</td>
+		<!--{section name=i loop=$fen4[0]}-->
+		<td align="center">{$fen4[0][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			2014自由客2.4L
+		</td>
+		<!--{section name=i loop=$fen4[1]}-->
+		<td align="center">{$fen4[1][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td>
+			2014自由客2.4L蛇行珍藏版
+		</td>
+		<!--{section name=i loop=$fen4[2]}-->
+		<td align="center">{$fen4[2][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td align="center">
+			D-SUV
+		</td>
+		<td align="center" style="vertical-align:middle;">
+			D-SUV
+		</td>
+		<td>
+			2014自由光
+		</td>
+		<!--{section name=i loop=$fen5[0]}-->
+		<td align="center">{$fen5[0][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td align="center" rowspan="3">
+			Chrysler
+		</td>
+		<td align="center">
+			300C
+		</td>
+		<td>
+			300C
+		</td>
+		<!--{section name=i loop=$fen6[0]}-->
+		<td align="center">{$fen6[0][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td align="center">
+			300S
+		</td>
+		<td>
+			300S
+		</td>
+		<!--{section name=i loop=$fen6[1]}-->
+		<td align="center">{$fen6[1][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+		<td align="center">
+			RT
+		</td>
+		<td>
+			大捷龙
+		</td>
+		<!--{section name=i loop=$fen6[2]}-->
+		<td align="center">{$fen6[2][i]}</td>
+		<!--{/section}-->
+	</tr>
+
+	<tr>
+		<td align="center" style="vertical-align:middle;">
+			Dodge
+		</td>
+		<td align="center" style="vertical-align:middle;">
+			JCUV
+		</td>
+		<td>
+			酷威
+		</td>
+		<!--{section name=i loop=$fen7[0]}-->
+		<td align="center">{$fen7[0][i]}</td>
+		<!--{/section}-->
+	</tr>
+	<tr>
+	  	<td colspan="3" align="center">2013Total</td>
+	  	<!--{section name=i loop=$zong}-->
+		<td align="center">{$zong[i]}</td>
+		<!--{/section}-->
+	</tr>
+	</table>
+</div>
+</body>
+</html>

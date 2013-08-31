@@ -1,0 +1,131 @@
+收到ipad上传请求: http://localhost/car.php  20130816 13:51:36
+[{"name":"张国栋2","sex":"28","phone":"18077656669","email":"","province":"河北","city":"保定",
+"is_havecar":"2","year":"","brand":"","models":"","driven_age":"1","plan_time":"1","plan_budget":"1","interest_car":"2013牧马人Sahara 两门款",
+"ipadDealer":"北京百盛","is_followup":"1","is_receive":"1","duty":"全新进口Jeep大切诺基SRT8","ipadSell":"销售"}]
+
+ipad上传返回: http://localhost/car.php  20130816 13:51:36
+{"rstatus":1,"rmsg":"提交成功","id":[{"id":"8675","phone":"18077656669"}]}
+
+收到ipad上传请求: http://localhost/car.php  20130816 13:54:27
+[{"name":"张国栋2","sex":"28","phone":"18077656669","email":"","province":"河北","city":"保定",
+"is_havecar":"2","year":"","brand":"","models":"","driven_age":"1","plan_time":"1","plan_budget":"1","interest_car":"2013牧马人Sahara 两门款",
+"ipadDealer":"北京百盛","is_followup":"1","is_receive":"1","duty":"全新进口Jeep大切诺基SRT8","ipadSell":"销售"}]
+
+ipad上传返回: http://localhost/car.php  20130816 13:54:27
+{"rstatus":1,"rmsg":"提交成功","id":[]}
+
+收到ipad上传请求: http://localhost/car.php  20130816 13:55:54
+[{"name":"张国栋2","sex":"28","phone":"15114521256","email":"","province":"河北","city":"保定",
+"is_havecar":"2","year":"","brand":"","models":"","driven_age":"1","plan_time":"1","plan_budget":"1","interest_car":"2014指南者2.0L",
+"ipadDealer":"北京百盛","is_followup":"1","is_receive":"1","duty":"全新进口Jeep大切诺基SRT8","ipadSell":"销售"}]
+
+ipad上传返回: http://localhost/car.php  20130816 13:55:54
+{"rstatus":1,"rmsg":"提交成功","id":[{"id":"8674","phone":"15114521256"}]}
+
+收到ipad查询请求: http://localhost/querycar.php  20130816 14:05:16
+{"name":"",phone":"13269214448"}
+
+ipad查询返回: http://localhost/querycar.php  20130816 14:05:17
+{"rstatus":1,"rmsg":"查询成功","data":[{"id":"8661","name":"张三分","sex":"1","phone":"15210909358","email":"","interest_car":"2014指南者2.4L蛇行珍藏版","plan_time":"1","province":"四川省","city":"成都","itouchDealer":"  四川华驰  ","itouchSell":"车助1"},{"id":"8662","name":"分发到n","sex":"2","phone":"15812541452","email":"","interest_car":"2014大切诺基3.0L","plan_time":"5","province":"四川省","city":"成都","itouchDealer":"  四川城市车辆  ","itouchSell":"车助1"},{"id":"8663","name":"还好明年","sex":"1","phone":"15215231452","email":"","interest_car":"2014大切诺基3.6L","plan_time":"7","province":"特别行政区","city":"香港","itouchDealer":"  四川华驰  ","itouchSell":"车助1"},{"id":"8664","name":"黄花闺女","sex":"1","phone":"15814788523","email":"","interest_car":"2014大切诺基5.7L","plan_time":"1","province":"台湾省","city":"台北","itouchDealer":"  成都东浩  ","itouchSell":"车助1"},{"id":"8665","name":"黄花闺女","sex":"1","phone":"15012581452","email":"","interest_car":"2014大切诺基SRT8","plan_time":"6","province":"甘肃省","city":"兰州","itouchDealer":"  成都华驰  ","itouchSell":"车助1"},{"id":"8666","name":"你bv年内","sex":"1","phone":"15912365896","email":"","interest_car":"2014指南者2.0L","plan_time":"7","province":"河南省","city":"郑州","itouchDealer":"  成都东浩  ","itouchSell":"车助1"},{"id":"8667","name":"北京举办","sex":"1","phone":"13812456398","email":"","interest_car":"牧马人Sahara两门款","plan_time":"4","province":"四川省","city":"成都","itouchDealer":"  成都东浩  ","itouchSell":"车助1"},{"id":"8668","name":"vn年年内","sex":"1","phone":"15812562563","email":"","interest_car":"牧马人Sahara四门款","plan_time":"4","province":"福建省","city":"福州","itouchDealer":"  四川城市车辆  ","itouchSell":"车助1"},{"id":"8669","name":"ffnn","sex":"1","phone":"15612351452","email":"","interest_car":"2014指南者2.0L","plan_time":"1","province":"四川省","city":"成都","itouchDealer":"  四川华驰  ","itouchSell":"车助3"},{"id":"8670","name":"的n你","sex":"1","phone":"15614521478","email":"","interest_car":"2014指南者2.4L","plan_time":"1","province":"特别行政区","city":"香港","itouchDealer":"  成都东浩  ","itouchSell":"车助3"},{"id":"8671","name":"吃饭吗k","sex":"1","phone":"13414521236","email":"","interest_car":"2014自由客2.4L蛇行珍藏版","plan_time":"4","province":"四川省","city":"成都","itouchDealer":"  四川华驰  ","itouchSell":"车助3"},{"id":"8672","name":"hbnmm","sex":"1","phone":"15214564589","email":"","interest_car":"2014大切诺基SRT8","plan_time":"1","province":"安徽省","city":"合肥","itouchDealer":"  四川城市车辆  ","itouchSell":"车助4"},{"id":"8673","name":"不关门m","sex":"1","phone":"13214521463","email":"","interest_car":"2014指南者2.4L蛇行珍藏版","plan_time":"1","province":"四川省","city":"成都","itouchDealer":"  四川城市车辆  ","itouchSell":"车助4"}]}
+
+收到ipad修改请求: http://localhost/updcar.php  20130816 14:19:38
+[{"id":"8673","name":"zzzzz","sex":"1","email":"","interest_car":"2014指南者2.0L","plan_time":"6","province":"北京","city":"东城","dealer":"北京中进百旺","sell":"销售1"}]
+
+ipad修改返回: http://localhost/updcar.php  20130816 14:19:38
+{"rstatus":1,"rmsg":"修改成功"}
+
+收到ipad修改请求: http://localhost/updcar.php  20130816 14:20:40
+[{"id":"8673","name":"zzzzz","sex":"1","email":"","interest_car":"2014指南者2.0L","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"}]
+
+ipad修改返回: http://localhost/updcar.php  20130816 14:20:40
+{"rstatus":1,"rmsg":"修改成功"}
+
+收到ipad修改请求: http://localhost/updcar.php  20130816 14:21:30
+[{"id":"8672","name":"zzzzz","sex":"1","email":"","interest_car":"2014指南者2.0L","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"}]
+
+ipad修改返回: http://localhost/updcar.php  20130816 14:21:30
+{"rstatus":1,"rmsg":"修改成功"}
+
+收到ipad上传请求: http://localhost/car.php  20130816 14:50:09
+[{"name":"张国栋2","sex":"28","phone":"15111111111","email":"","province":"河北","city":"保定",
+"is_havecar":"2","year":"","brand":"","models":"","driven_age":"1","plan_time":"1","plan_budget":"1","interest_car":"2014指南者2.0L",
+"ipadDealer":"北京百盛","is_followup":"1","is_receive":"1","duty":"全新进口Jeep大切诺基SRT8","ipadSell":"销售"}]
+
+ipad上传返回: http://localhost/car.php  20130816 14:50:09
+{"rstatus":1,"rmsg":"提交成功","id":[{"id":"8676","phone":"15111111111"}]}
+
+收到ipad上传请求: http://localhost/car.php  20130816 14:50:15
+[{"name":"张国栋2","sex":"28","phone":"15111111112","email":"","province":"河北","city":"保定",
+"is_havecar":"2","year":"","brand":"","models":"","driven_age":"1","plan_time":"1","plan_budget":"1","interest_car":"2014指南者2.0L",
+"ipadDealer":"北京百盛","is_followup":"1","is_receive":"1","duty":"全新进口Jeep大切诺基SRT8","ipadSell":"销售"}]
+
+ipad上传返回: http://localhost/car.php  20130816 14:50:15
+{"rstatus":1,"rmsg":"提交成功","id":[{"id":"8677","phone":"15111111112"}]}
+
+收到ipad上传请求: http://localhost/car.php  20130816 14:50:21
+[{"name":"张国栋2","sex":"28","phone":"15111111113","email":"","province":"河北","city":"保定",
+"is_havecar":"2","year":"","brand":"","models":"","driven_age":"1","plan_time":"1","plan_budget":"1","interest_car":"2014指南者2.0L",
+"ipadDealer":"北京百盛","is_followup":"1","is_receive":"1","duty":"全新进口Jeep大切诺基SRT8","ipadSell":"销售"}]
+
+ipad上传返回: http://localhost/car.php  20130816 14:50:21
+{"rstatus":1,"rmsg":"提交成功","id":[{"id":"8678","phone":"15111111113"}]}
+
+收到ipad上传请求: http://localhost/car.php  20130816 14:50:26
+[{"name":"张国栋2","sex":"28","phone":"15111111114","email":"","province":"河北","city":"保定",
+"is_havecar":"2","year":"","brand":"","models":"","driven_age":"1","plan_time":"1","plan_budget":"1","interest_car":"2014指南者2.0L",
+"ipadDealer":"北京百盛","is_followup":"1","is_receive":"1","duty":"全新进口Jeep大切诺基SRT8","ipadSell":"销售"}]
+
+ipad上传返回: http://localhost/car.php  20130816 14:50:26
+{"rstatus":1,"rmsg":"提交成功","id":[{"id":"8679","phone":"15111111114"}]}
+
+收到ipad上传请求: http://localhost/car.php  20130816 14:50:30
+[{"name":"张国栋2","sex":"28","phone":"15111111115","email":"","province":"河北","city":"保定",
+"is_havecar":"2","year":"","brand":"","models":"","driven_age":"1","plan_time":"1","plan_budget":"1","interest_car":"2014指南者2.0L",
+"ipadDealer":"北京百盛","is_followup":"1","is_receive":"1","duty":"全新进口Jeep大切诺基SRT8","ipadSell":"销售"}]
+
+ipad上传返回: http://localhost/car.php  20130816 14:50:30
+{"rstatus":1,"rmsg":"提交成功","id":[{"id":"8680","phone":"15111111115"}]}
+
+收到ipad修改请求: http://localhost/updcar.php  20130816 14:55:32
+[{"id":"8661","name":"zzzzz","sex":"1","email":"","interest_car":"2014大切诺基3.0L","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8662","name":"zzzzz","sex":"1","email":"","interest_car":"2014大切诺基3.6L","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8663","name":"zzzzz","sex":"1","email":"","interest_car":"2014大切诺基5.7L","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8664","name":"zzzzz","sex":"1","email":"","interest_car":"2014大切诺基SRT8","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8665","name":"zzzzz","sex":"1","email":"","interest_car":"2014指南者2.0L","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8666","name":"zzzzz","sex":"1","email":"","interest_car":"2014指南者2.4L","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8667","name":"zzzzz","sex":"1","email":"","interest_car":"2014指南者2.4L蛇行珍藏版","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8668","name":"zzzzz","sex":"1","email":"","interest_car":"牧马人Sahara两门款","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8669","name":"zzzzz","sex":"1","email":"","interest_car":"牧马人Sahara四门款","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8670","name":"zzzzz","sex":"1","email":"","interest_car":"牧马人Rubicon两门款","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8671","name":"zzzzz","sex":"1","email":"","interest_car":"牧马人Rubicon四门款","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8672","name":"zzzzz","sex":"1","email":"","interest_car":"牧马人Rubicon十周年纪念款","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8673","name":"zzzzz","sex":"1","email":"","interest_car":"2014自由客2.0L","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8674","name":"zzzzz","sex":"1","email":"","interest_car":"2014自由客2.4L","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8675","name":"zzzzz","sex":"1","email":"","interest_car":"2014自由客2.4L蛇行珍藏版","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8676","name":"zzzzz","sex":"1","email":"","interest_car":"2014自由光","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8677","name":"zzzzz","sex":"1","email":"","interest_car":"300C","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8678","name":"zzzzz","sex":"1","email":"","interest_car":"300S","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8679","name":"zzzzz","sex":"1","email":"","interest_car":"大捷龙","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"},
+{"id":"8680","name":"zzzzz","sex":"1","email":"","interest_car":"酷威","plan_time":"6","province":"北京","city":"东城","ipadDealer":"北京中进百旺","ipadSell":"销售1"}]
+
+ipad修改返回: http://localhost/updcar.php  20130816 14:55:33
+{"rstatus":3,"rmsg":"批量修改成功","success":20,"error":0}
+
+收到ipad查询请求: http://localhost/querycar.php  20130816 15:38:12
+{"name":"",phone":"15"}
+
+ipad查询返回: http://localhost/querycar.php  20130816 15:38:12
+{"rstatus":1,"rmsg":"查询成功","data":[]}
+
+收到ipad查询请求: http://localhost/querycar.php  20130816 15:38:14
+{"name":"",phone":"15"}
+
+ipad查询返回: http://localhost/querycar.php  20130816 15:38:14
+{"rstatus":1,"rmsg":"查询成功","data":[]}
+
+收到ipad查询请求: http://localhost/querycar.php  20130816 15:38:14
+{"name":"",phone":"15"}
+
+ipad查询返回: http://localhost/querycar.php  20130816 15:38:14
+{"rstatus":1,"rmsg":"查询成功","data":[]}
+

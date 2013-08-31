@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!-- saved from url=(0026)http://toothless.me/3dimg/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>3D Image Transitions</title>
+		<!--[if lte IE 8]>
+ 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link rel="stylesheet" href="files/style.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		<link href="files/css" rel="stylesheet" type="text/css">
+		
+		<!-- Use jQuery for best compatibility with other CSS3 enabled browsers -->
+		<script src="files/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		
+		<script src="files/flux.js" type="text/javascript" charset="utf-8"></script>
+		
+		<script type="text/javascript" charset="utf-8">
+			$(function(){
+				if(!flux.browser.supportsTransitions)
+					alert("Flux Slider requires a browser that supports CSS3 transitions");
+					
+				window.f = new flux.slider('#slider', {
+					pagination: false,
+					controls: false,
+					transitions: ['explode', 'tiles3d', 'bars3d', 'cube', 'turn'],
+					autoplay: false
+				});
+				
+				$('.transitions').click(function(event){
+					event.preventDefault();
+					window.f.next($(event.target).data('transition'), $(event.target).data('params'));
+				});
+			});
+		</script>
+	</head><link rel="stylesheet" type="text/css" href="data:text/css,">
+	<body>
+		<!--<section class="container">
+			<div id="slider">
+			<div class="fluxslider" style="width: 500px; height: 638px; "><div class="surface" style="position: relative"><div class="images" style="position: relative; overflow: hidden; min-height: 100px; width: 500px; height: 638px; "><div class="image1" style="height: 638px; width: 500px; position: absolute; top: 0px; left: 0px; background-image: url(imgs/p_large_dwKx_489500003ee92d0c.jpg); z-index: 101; cursor: auto; -webkit-perspective: 1000px; -webkit-perspective-origin-x: 50%; -webkit-perspective-origin-y: 50%; -webkit-transform-style: flat; "></div><div class="image2" style="height: 638px; width: 500px; position: absolute; top: 0px; left: 0px; background-image: url(imgs/U1235P2T682D1F21619DT20100609075427.jpg); z-index: 100; display: block; "></div></div></div></div></div>-->
+            				<section class="container">
+			<div id="slider">
+<img src="imgs/p_large_dwKx_489500003ee92d0c.jpg" alt=""/>
+<img src="imgs/U1235P2T682D1F21619DT20100609075427.jpg" alt=""/>
+<img src="imgs/peacock.jpg" alt=""/>
+<img src="imgs/p_large_NFU3_7b970004983f2d0f.jpg" alt=""/>
+<img src="imgs/U1235P2T682D11F21619DT20100609075912.jpg" alt=""/>
+<img src="imgs/koi.jpg" alt=""/>
+<img src="imgs/life.jpg" alt=""/>
+<img src="imgs/p497177397.jpg" alt=""/>
+<img src="imgs/p194618682.jpg" alt=""/>
+			</div>
+			<ul class="transitions">
+				<li><button type="button" data-transition="explode" data-params='{"rows": 4}'>Explode</button></li>
+				<li><button type="button" data-transition="tiles3d" data-params='{"columns": 6}'>Tile</button></li>
+				<li><button type="button" data-transition="bars3d">Bars</button></li>
+				<li><button type="button" data-transition="cube">Cube</button></li>
+				<li><button type="button" data-transition="turn">Turn</button></li>
+			</ul>
+		</section>
+</body></html>

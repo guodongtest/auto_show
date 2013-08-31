@@ -1,0 +1,150 @@
+收到itouch请求: http://192.168.1.200/infce.php  20130815 21:56:50
+[{"name":"张三分","sex":"1","phone":"15210909358","email":"","province":"四川省","city":"成都","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"2014指南者2.4L蛇行珍藏版","dealer":"  四川华驰  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"(null)","savetime":"2013/08/15 21:57:13"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 21:56:50
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 21:58:12
+[{"name":"分发到n","sex":"2","phone":"15812541452","email":"(null)","province":"四川省","city":"成都","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"5","plan_budget":"","interest_car":"2014大切诺基3.0L","dealer":"  四川城市车辆  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 21:58:35"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 21:58:12
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 21:58:48
+[{"name":"还好明年","sex":"1","phone":"15215231452","email":"(null)","province":"特别行政区","city":"香港","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"7","plan_budget":"","interest_car":"2014大切诺基3.6L","dealer":"  四川华驰  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 21:59:12"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 21:58:48
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 21:59:24
+[{"name":"黄花闺女","sex":"1","phone":"15814788523","email":"(null)","province":"台湾省","city":"台北","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"2014大切诺基5.7L","dealer":"  成都东浩  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 21:59:48"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 21:59:24
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:00:02
+[{"name":"黄花闺女","sex":"1","phone":"15012581452","email":"(null)","province":"甘肃省","city":"兰州","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"6","plan_budget":"","interest_car":"2014大切诺基SRT8","dealer":"  成都华驰  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:00:26"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:00:03
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:00:33
+[{"name":"你bv年内","sex":"1","phone":"15912365896","email":"(null)","province":"河南省","city":"郑州","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"7","plan_budget":"","interest_car":"2014指南者2.0L","dealer":"  成都东浩  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:00:56"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:00:33
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:01:28
+[{"name":"北京举办","sex":"1","phone":"13812456398","email":"(null)","province":"四川省","city":"成都","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"4","plan_budget":"","interest_car":"牧马人Sahara两门款","dealer":"  成都东浩  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:01:51"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:01:28
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:02:10
+[{"name":"vn年年内","sex":"1","phone":"15812562563","email":"(null)","province":"福建省","city":"福州","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"4","plan_budget":"","interest_car":"牧马人Sahara四门款","dealer":"  四川城市车辆  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:02:33"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:02:10
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:02:41
+[{"name":"v和经济","sex":"1","phone":"15812562563","email":"(null)","province":"台湾省","city":"台北","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"4","plan_budget":"","interest_car":"牧马人Rubicon两门款","dealer":"  成都东浩  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:03:04"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:02:42
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:03:55
+[{"name":"你能回归","sex":"1","phone":"15812562563","email":"(null)","province":"台湾省","city":"台北","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"5","plan_budget":"","interest_car":"牧马人Rubicon四门款","dealer":"  成都华驰  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:04:18"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:03:55
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:04:19
+[{"name":"把内内部","sex":"1","phone":"15812562563","email":"(null)","province":"安徽省","city":"合肥","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"3","plan_budget":"","interest_car":"牧马人Rubicon十周年纪念款","dealer":"  四川城市车辆  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:04:42"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:04:19
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:04:44
+[{"name":"规划年内","sex":"1","phone":"15812562563","email":"","province":"台湾省","city":"台北","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"3","plan_budget":"","interest_car":"2014自由客2.0L","dealer":"  成都东浩  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:05:07"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:04:44
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:05:10
+[{"name":"别别扭扭","sex":"1","phone":"15812562563","email":"(null)","province":"台湾省","city":"台北","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"5","plan_budget":"","interest_car":"2014自由客2.4L","dealer":"  四川城市车辆  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:05:33"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:05:10
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:05:33
+[{"name":"结合河南","sex":"1","phone":"15812562563","email":"(null)","province":"安徽省","city":"合肥","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"2014自由客蛇行珍藏版","dealer":"  成都东浩  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:05:56"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:05:33
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:07:55
+[{"name":"v后几年内","sex":"1","phone":"15812562563","email":"(null)","province":"甘肃省","city":"兰州","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"2","plan_budget":"","interest_car":"2014自由光","dealer":"  成都华驰  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:08:19"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:07:56
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:08:23
+[{"name":"和妇女年","sex":"1","phone":"15812562563","email":"(null)","province":"特别行政区","city":"香港","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"4","plan_budget":"","interest_car":"300C","dealer":"  成都东浩  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:08:47"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:08:23
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:08:42
+[{"name":"不鼓鼓囊囊","sex":"1","phone":"15812562563","email":"(null)","province":"台湾省","city":"台北","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"4","plan_budget":"","interest_car":"300S","dealer":"  四川华驰  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:09:05"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:08:42
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:09:09
+[{"name":"败不馁","sex":"1","phone":"15812562563","email":"(null)","province":"四川省","city":"成都","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"大捷龙","dealer":"  四川华驰  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:09:33"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:09:09
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:09:29
+[{"name":"不管功能","sex":"1","phone":"15812562563","email":"(null)","province":"四川省","city":"成都","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"酷威","dealer":"  四川华驰  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"全新进口大切诺基SRT8","qrcode":"","savetime":"2013/08/15 22:09:53"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:09:30
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:13:58
+[{"name":"ffnn","sex":"1","phone":"15612351452","email":"","province":"四川省","city":"成都","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"2014指南者2.0L","dealer":"  四川华驰  ","is_followup":"1","is_receive":"1","helper_id":"803","duty":"2014指南者2.4L","qrcode":"(null)","savetime":"2013/08/15 22:14:21"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:13:58
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:15:10
+[{"name":"的n你","sex":"1","phone":"15614521478","email":"(null)","province":"特别行政区","city":"香港","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"2014指南者2.4L","dealer":"  成都东浩  ","is_followup":"1","is_receive":"1","helper_id":"803","duty":"2014指南者2.4L","qrcode":"","savetime":"2013/08/15 22:15:33"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:15:10
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:15:34
+[{"name":"吃饭吗k","sex":"1","phone":"13414521236","email":"(null)","province":"四川省","city":"成都","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"4","plan_budget":"","interest_car":"2014自由客2.4L蛇行珍藏版","dealer":"  四川华驰  ","is_followup":"1","is_receive":"1","helper_id":"803","duty":"2014指南者2.4L","qrcode":"","savetime":"2013/08/15 22:15:57"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:15:34
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:26:04
+[{"name":"hbnmm","sex":"1","phone":"15214564589","email":"","province":"安徽省","city":"合肥","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"2014大切诺基SRT8","dealer":"  四川城市车辆  ","is_followup":"1","is_receive":"1","helper_id":"804","duty":"全新进口大切诺基SRT8","qrcode":"(null)","savetime":"2013/08/15 22:26:27"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:26:04
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:27:08
+[{"name":"不关门m","sex":"1","phone":"13214521463","email":"(null)","province":"四川省","city":"成都","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"2014指南者2.4L蛇行珍藏版","dealer":"  四川城市车辆  ","is_followup":"1","is_receive":"1","helper_id":"804","duty":"牧马人Rubicon十周年两门款","qrcode":"","savetime":"2013/08/15 22:27:31"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:27:08
+{"rstatus":1,"rmsg":"提交成功"}
+
+收到itouch请求: http://192.168.1.200/infce.php  20130815 22:27:52
+[{"name":"v姑娘你","sex":"1","phone":"15114521256","email":"(null)","province":"台湾省","city":"台北","is_havecar":"2","year":"","brand":"","models":"","driven_age":"","plan_time":"1","plan_budget":"","interest_car":"2014自由光","dealer":"  成都华驰  ","is_followup":"1","is_receive":"1","helper_id":"801","duty":"牧马人Rubicon四门款","qrcode":"","savetime":"2013/08/15 22:28:15"}]
+
+itouch返回: http://192.168.1.200/infce.php  20130815 22:27:52
+{"rstatus":1,"rmsg":"提交成功"}
+

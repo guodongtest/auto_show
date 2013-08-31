@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<table border="1px soild #000" style="width:4100px">
+	<tr>
+		<td style="width:100px">客户姓名</td>
+		<td style="width:100px">客户性别</td>
+		<td style="width:150px">手机</td>
+		<td style="width:150px">邮箱</td>
+		<td style="width:200px">意向车型</td>
+		<td style="width:150px">期望购车时间</td>
+		<td style="width:100px">常住省</td>
+		<td style="width:100px">常住市</td>
+		<td style="width:100px">驻场经销商</td>
+		<td style="width:200px">是否愿意销售跟进</td>
+		<td style="width:200px">是否愿意接收信息</td>
+		<!--  <td style="width:200px">保存时间</td>-->
+		<td style="width:200px">上传时间</td>
+		<td style="width:100px">上传车助</td>
+		<td style="width:100px">销售姓名</td>
+		<td style="width:100px">问卷来源</td>
+		<!--<td style="width:200px">客户来源</td>-->
+	</tr>
+	<!--{section name=i loop=$list3}-->
+	<tr>
+		<td>{$list3[i].name}</td>
+		<td>{$list3[i].sex}</td>
+		<td>{$list3[i].phone}</td>
+		<td>{$list3[i].email}</td>
+		<td>{$list3[i].interest_car}</td>
+		<td>{$list3[i].plan_time}</td>
+		<td>{$list3[i].province}</td>
+		<td>{$list3[i].city}</td>
+		<td>{$list3[i].dealer}</td>
+		<td>{$list3[i].is_followup}</td>
+		<td>{$list3[i].is_receive}</td>
+		<!--<td>{$list3[i].savetime}</td>-->
+		<td>{$list3[i].created}</td>
+		<td>{$list3[i].code}</td>
+		<td>{$list3[i].sell}</td>
+		<td>{$list3[i].infotype}</td>
+		<!--<td>{$list3[i].qrcode}</td>	-->
+	</tr>
+	<!--{/section}-->
+</table>
+</body>
+</html>

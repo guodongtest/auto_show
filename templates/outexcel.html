@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body style="font-size:12px;">
+<table border="1" id="tb1" style="width:400px">
+<tr>
+	<th style="width:50px">ID</th>
+	<th style="width:100px">车助编号</th>
+	<th style="width:150px">姓名</th>
+</tr>
+{section name=i loop=$arr}
+<tr>
+	<td align="center">{$arr[i].id}</td>
+	<td align="center">{$arr[i].code}</td>
+	<td align="center">{$arr[i].name}</td>
+</tr>
+{/section}
+</table>
+</body>
+</html>
